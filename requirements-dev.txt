@@ -1,0 +1,11 @@
+-i https://artifactory.globoi.com/artifactory/api/pypi/pypi-all/simple
+
+autopep8
+coverage
+mock
+pylint
+pytest
+pytest-cov
+pytest-html
+
+-r requirements.txt

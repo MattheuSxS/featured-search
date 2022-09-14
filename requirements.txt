@@ -1,0 +1,5 @@
+xlsxwriter
+pandas
+PySimpleGUI
+tk
+openpyxl
